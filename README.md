@@ -1,6 +1,6 @@
 # python-beginner-exercises
 My Python practice exercises (games, logic problems, beginner projects)
-# Python Beginner Exercises
+
 
 This repository contains my Python practice projects as I learn programming.
 
